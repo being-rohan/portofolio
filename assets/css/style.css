@@ -1,7 +1,9 @@
 /* imports */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 @import url(keyframe.css);
+
 
 /* ####### variables ###### */
 :root{
@@ -21,7 +23,7 @@
 /* ## body ## */
 body{
     font-family: 'Josefin Sans', sans-serif;
-}
+} 
 
 
 ::selection{
