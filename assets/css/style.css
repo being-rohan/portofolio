@@ -490,6 +490,7 @@ article .icon{
 .socialIcons a:hover i{
     transform: translateY(-5px);
     opacity: 1;
+    
 }
 
 /* ########## CSS FOR FIXED BUTTON ######### */
